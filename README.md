@@ -2,10 +2,6 @@
 [![Visit Game](https://img.itch.zone/aW1nLzI4NjExMzc5LnBuZw==/original/0OVg9j.png)](https://indecisiv.itch.io/fishin-for-love)
 
 
-[![Visit Game](https://img.itch.zone/aW1nLzI4NjExMzc5LnBuZw==/original/0OVg9j.png)](https://indecisiv.itch.io/fishin-for-love)
-
-
-
 [![carrd](https://img.shields.io/badge/.-carrd-grey?style=flat&logo=carrd&logoColor=%23ffffff&labelColor=%23596CAF)](https://indecisiv.carrd.co/) 
 ㅤ
 [![Twitter](https://img.shields.io/badge/.-Twitter-grey?style=flat&logo=x&logoColor=%23ffffff&labelColor=%23000000)](https://x.com/indecisiv_dev)
